@@ -1,0 +1,6 @@
+{
+  "name": "obsidian-vault",
+  "version": "1.0.0",
+  "description": "Set up an Obsidian vault and let Claude file notes into it (capture) and health-check it (lint).",
+  "author": { "name": "KP" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-vault-kit",
+  "owner": { "name": "KP" },
+  "description": "Obsidian vault setup, capture and lint skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "obsidian-vault",
+      "source": "./plugins/obsidian-vault",
+      "description": "Set up an Obsidian vault and let Claude file notes into it and health-check it."
+    }
+  ]
+}
